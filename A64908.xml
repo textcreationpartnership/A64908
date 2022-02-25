@@ -1,0 +1,876 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An essay, for regulating of the coyn wherein is also set forth, I. How we have lost that import of plate and bullion we formerly had, II. What is become of the great quantities of money coyned in the reign of King Charles II and the preceeding reigns, III. The necessity there is at this time to rectifie the present coyn of the kingdom, IV. By what methods the charge of calling in the present mony, and bringing it to a designed standard, may be accomplished, V. Whether the method proposed for the advancing of our mony (and the bullion of which its made) be convenient or inconvenient for the trade of the nation..</title>
+            <author>A. V. (A. Vickaris)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 73 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64908</idno>
+            <idno type="STC">Wing V337A</idno>
+            <idno type="STC">ESTC R18695</idno>
+            <idno type="EEBO-CITATION">11973700</idno>
+            <idno type="OCLC">ocm 11973700</idno>
+            <idno type="VID">94821</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64908)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94821)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 902:10, 522:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An essay, for regulating of the coyn wherein is also set forth, I. How we have lost that import of plate and bullion we formerly had, II. What is become of the great quantities of money coyned in the reign of King Charles II and the preceeding reigns, III. The necessity there is at this time to rectifie the present coyn of the kingdom, IV. By what methods the charge of calling in the present mony, and bringing it to a designed standard, may be accomplished, V. Whether the method proposed for the advancing of our mony (and the bullion of which its made) be convenient or inconvenient for the trade of the nation..</title>
+                  <author>A. V. (A. Vickaris)</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>Second edition, with an additional proposition for the regulating the coyn /</edition>
+               </editionStmt>
+               <extent>[6], 9-30 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Cumberland at the Angel in St. Paul's Church-yard.,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>MDCXCVI. [1696].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproductions of originals in: Bodleian Library (reel 522:3) and Henry E. Huntington Library and Art Gallery (reel 902:10).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Coinage --  England.</term>
+               <term>Currency question --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:94821:1"/>
+            <pb facs="tcp:94821:1"/>
+            <p>AN ESSAY FOR <hi>Regulating of the Coyn:</hi> Wherein alſo is ſet forth,</p>
+            <list>
+               <item>I. How we have loſt that Import of Plate and Bullion we formerly had.</item>
+               <item>II. What is become of the great Quantities of Mony coyned in the Reign of King <hi>Charles</hi> II. and the preceding Reigns.</item>
+               <item>III. The neceſſity there is at this time for to rectifie the pre<g ref="char:EOLhyphen"/>ſent Coyn of the Kingdom.</item>
+               <item>IV. By what Methods the Charge of calling in the preſent Mony, and bringing it to a deſigned Standard, may be accompliſhed.</item>
+               <item>V. Whether the Method propoſed for the advancing of our Mony (and the Bullion of which its made) be Convenient or Inconvenient for the Trade of the Nation.</item>
+            </list>
+            <p>
+               <hi>The Second Edition:</hi> With an Additional Propoſition for the Regulating the Coyn.</p>
+            <p>By <hi>A. <g ref="char:V">Ʋ</g>.</hi> Merchant.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Richard Cumberland,</hi> at the <hi>Angel</hi> in St. <hi>Paul</hi>'s Church-yard. MDCXCVI.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:94821:2"/>
+            <pb facs="tcp:94821:2"/>
+            <head>To his Excellence Sydney Lord Godolphin, <hi>One of the Lords Juſtices of</hi> England, <hi>&amp;c.</hi> AND <hi>To the Right Honourable</hi> Charles Montegue, <hi>Chancellor of His Majeſty's Exchequer; Sir</hi> William Trumbold, <hi>Knight, one of His Majeſty's Principal Secretaries of State; Sir</hi> Stephen Fox, <hi>Knight, and</hi> John Smith, <hi>Eſquire, Lords Commiſſioners for the Executing the Office of Lord High-Treaſurer of</hi> England; <hi>and of His Majeſty's Most Honourable Privy Council.</hi>
+            </head>
+            <opener>
+               <salute>May it pleaſe your Excellence, and your Honours,</salute>
+            </opener>
+            <p>WHEN I conſider what Occa<g ref="char:EOLhyphen"/>ſion there is for the exhauſting, and what Diſadvantages we are under by the defacing of our Coyn, though I have but one Myte, I would gladly caſt it into the Treaſury.</p>
+            <pb facs="tcp:94821:3"/>
+            <p>My Offering is not conſiderable for Value, but I hope it will be found to be of juſt Weight. And ſince your Lord<g ref="char:EOLhyphen"/>ſhips are the Keepers of <hi>CAESAR</hi>'s Purſe, I promiſe my ſelf you will vouchſafe to look upon my Penny. To which if your Lordſhips will give your Stamp, I doubt not but it will paſs for Sterling.</p>
+            <p>I know the Metal I bring is Courſe, but I muſt leave it to better Artiſts to Refine; I bring it to your Lordſhips, as we are wont to do our Gold and Silver to the Aſſay Maſters, that if it bears your Touch, it may be Coyned, if it proveth Counter<g ref="char:EOLhyphen"/>feit it may be Suppreſſed.</p>
+            <closer>I am, <salute>my Lords,</salute>
+               <signed>Your Lordſhips Moſt Obedient Servant, A. U.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:94821:3"/>
+            <head>THE PREFACE TO THE READER.</head>
+            <p>
+               <hi>AS it was not the Eſteem I have of my own Capacity to manage ſo intricate a Subject, that first ingaged me in it, ſo its not the Opinion I have of my own Per<g ref="char:EOLhyphen"/>formance that perſuades me now to Publiſh it; I know others are better furniſhed for ſuch an <g ref="char:V">Ʋ</g>ndertaking, and if what I have written may but provoke them to it, I ſhall have my End, tho' it be accompliſhed by another Hand.</hi>
+            </p>
+            <p>
+               <hi>That it is the Value of our Coyn that hath occaſioned it's being Melted down, Clipped,
+<pb facs="tcp:94821:4"/> Tranſported and Counterfeited, I hope I have ſufficiently proved; and if you will but allow me this Foundation, I promiſe my ſelf you will not quarrel with the Superſtructure, which tho' not built according to Art, yet I hope it will prove agreeable to Reaſon.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>Septemb. 2. 1695.</date>
+               </dateline>
+               <signed>A. U.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="chapter">
+            <pb n="9" facs="tcp:94821:4"/>
+            <head>
+               <hi>CHAP. I.</hi> Setting forth how we have loſt that Import of Plate and Bullion we formerly had.</head>
+            <p>THat we have had not that Import of Plate and Bullion, doth proceed chiefly from the preſent War we are ingaged in, and that wherein the <hi>Spaniards</hi> were with the <hi>French,</hi> be<g ref="char:EOLhyphen"/>fore us, which now for theſe 15 years paſt hath put a ſtop to the regular Proceedings of the Fleets they uſed to ſend annually to the <hi>Vera-Cruz, Cartagena, Porto bello, Hunduras, Rio de la Plata, Hava<g ref="char:EOLhyphen"/>na, Marracaya,</hi> and other places in their <hi>West-Indies,</hi> whither they carried great quantities of our Engliſh Manufactories (as well as of moſt other Countries;) and thoſe Ships in former times, uſed to make a Voyage in 12, 14 and 16 Months, and bring to <hi>Spain</hi> among them above thirty Millions of Pieces of Eight (in Coyn or in Bullion) which is above ſix Millions of Pounds Sterling; and ſince their War with <hi>France</hi> (and the daily apprehenſion they had thereof) it hath been ſometimes three or four Years Interval be<g ref="char:EOLhyphen"/>tween their coming home and going out, which hath obſtructed a great part of that Conſumption we uſed to have of our Manu<g ref="char:EOLhyphen"/>factories, and the return that uſed to be made for them in Plate and Bullion. And the <hi>French, Dutch, Genoueſe, Italians</hi> and <hi>Por<g ref="char:EOLhyphen"/>tugueſes,</hi> have been proportionable Sufferers by it alſo. It hath likewiſe had an influence on our <hi>Turkey, Eaſt-India, Barbary</hi> and <hi>Guinea</hi> Trade, the ſaid Fleets taking off great quantities of <hi>Wax, Blacks, Mohairs, Carpets, Callicoes, Silk-ſtockings,</hi> made of <hi>Turky</hi>-ſilk.</p>
+            <p>Another Reaſon why we have not that Import of Bullion and Coyn, proceeds from the charge of our Fleet abroad; the pro<g ref="char:EOLhyphen"/>ceed of thoſe Goods that uſed to be ſent home in Plate and Bullion is now diverted to ſupply them.</p>
+            <p>Another Reaſon proceeds from a greater than uſual Import of <hi>Spaniſh</hi> and <hi>Portugal</hi> Oyl and Wines ſince the War, that we uſed to have from <hi>France</hi> and <hi>Italy</hi> (before) in return for our <hi>Manufactories,</hi> which hath alſo obſtructed the Import of the Plate and Bullion.</p>
+            <p>Now this extraordinary Import of <hi>Spaniſh</hi> and <hi>Portugal</hi> Oyls
+<pb n="10" facs="tcp:94821:5"/> and Wines proceeds (the latter from the Expence of them in room of thoſe we uſed to have from <hi>France</hi> before) from the extraordinary Hazard and Charge it would be to the Importers of Oyls to bring from <hi>Mayork</hi> and <hi>Gallipoly,</hi> more than it is to bring them from <hi>Portugal, Sevilla</hi> or <hi>Malaga;</hi> the further they fetch it the greater is the Freight, as is the hazard, and of conſequence the Inſurance; ſo that the Merchant Importers can and do from theſe Conſiderations give a better price for Oyls in <hi>Portugal,</hi> and in any part of the Kingdom of <hi>Spain</hi> as high as <hi>Malaga,</hi> and thereby we loſe the Sale of many of our own Manufactories that uſed to be truck'd for Oyls, or that proceed imployed therein, and now being brought in greater quantities from <hi>Portugal</hi> and <hi>Spain</hi> (which the Importers pay for in Mony) obſtruct the Importation of ſo much as they Import, or of Bullion, or at leaſt increaſes our Debt on the ballance of thoſe Trades.</p>
+            <p>Another Reaſon that hath prevented that Import of Plate and Bullion, proceedeth from the little Incouragement that hath been given to Trade in General, and the little care had to our Manu<g ref="char:EOLhyphen"/>factories in particular, the returns of which would have ſupplied us with Bullion enough (from thoſe Countries that take off the Product of ours) to carry on a Trade with thoſe that do not. But we have loſt the Expence of many of them, by not keeping them up to a Standard, as the <hi>Colcheſter</hi> Bays are (or ought by Law to be) every one making our <hi>Serges, Says, Stuffs</hi> and <hi>Stockings</hi> of leſs goodneſs each day than other, ſo that of late years, they have come to Foreign Markets ſo bad, that other Goods of other Coun<g ref="char:EOLhyphen"/>tries have been introduced in the room of them. And the mak<g ref="char:EOLhyphen"/>ing of our Silk-ſtockings of <hi>East-India Silk</hi> that uſed to be of <hi>Turky,</hi> we have thereby loſt the Expence of them in <hi>Spain,</hi> and in the <hi>Spaniſh Weſt-Indies,</hi> for which Markets I have known one Man ſend out of <hi>England</hi> thirty thouſand Pair a year: By which may be computed the Loſs that it hath proved to us thereby. And now they are chiefly ſupplyed by the <hi>Genoueſes</hi> and <hi>Italians.</hi> By theſe (and the like Methods) we have not only loſt the Expence of our own Product and Manufactory, but have obſtructed by it the returns there would have been made (for ſuch Commodities) in Foreign Bullion.</p>
+            <p>And for the retrieving of our loſt Trade, and the preventing any future Loſs thereby, it will be neceſſary that a Committee of
+<pb n="3" facs="tcp:94821:5"/> Trade be erected to ſit every Week for the Improvement thereof, and that they have full power given them to have our Cloth, Serges, Sayes, Stuffs and Stockings both Silk and Worſted to be made of ſuch a Length, Breadth and Weight; and a Penalty to put on all that buy or ſell any but what are ſo, and alſo impowered to in<g ref="char:EOLhyphen"/>courage thoſe Trades that moſt conduce to the Nations Intereſt; and, on the contrary, to diſcourage any Superfluities from thoſe Countries that Import to us more than they Export of our own Product or Manufactories.</p>
+         </div>
+         <div n="2" type="chapter">
+            <head>
+               <hi>CHAP. II.</hi> Setting forth what is become of the great quantities of Monies Coyned in the Reign of K. <hi>Charles II.</hi> and the preceeding Reigns.</head>
+            <p>THE Loſs of our Coyned Mony hath proceeded from the ſuffering Bullion to be Shipped off, when the price of it doth exceed the value of our Coyned Silver and Gold, under the notion of Foreign Bullion (as really it is <hi>ab origine</hi>). But ſtill it may be our Coyn melted down and ſold to thoſe that Export the ſame, and four Pence and ſix Pence might, and now twelve Pence may be got by a Crown piece, or five Shillings of unclipped Mony ſo melted down. And twenty <hi>per Cent.</hi> advantage is a good Al<g ref="char:EOLhyphen"/>lay for any ſcruple of Conſcience thoſe may have that practiſe it; and thoſe that receive and pay one thouſand Pounds a day, and meets with but one hundred pounds among it of unclipped Silver, may in a Year (accounting but three hundred Days) get ſix thouſand Pounds Sterling.</p>
+            <p>For the preventing of which it would be neceſſary that no Foreign Bullion ſhould be brought into the Kingdom, but what ſhould be carried to the <hi>Tower,</hi> and ſtamped there, or at leaſt none ſuffered to be ſhipped off again, but ſuch as had the <hi>Tower</hi> Mark. And if this Method were uſed, no Bullion could be Ex<g ref="char:EOLhyphen"/>ported that had been coyned here, or wrought into Houſhold Plate.</p>
+            <pb n="4" facs="tcp:94821:6"/>
+            <p>And becauſe much of our coyned Silver and Gold may be be<g ref="char:EOLhyphen"/>lieved to be melted down, it would be neceſſary that none were ſuffered to melt down old Plate or Gold, or the Duſt there<g ref="char:EOLhyphen"/>of. But that a convenient place or places may be appointed where all ſuch Gold or Silver ſhould be meltd down, and when ſo melted, then marked with a particular Mark, by which it ſhould be known to have been old Plate or Gold ſo melted, and then delivered to the Owner or Owners thereof, for which he ſhould in Books for that purpoſe ſtand Debtor, and in the ſame Books be credited again by a Certificate from the <hi>Gold-ſmiths</hi>
+               <g ref="char:EOLhyphen"/>Hall of the Ounces of Plate he or they hath worked up, and the Wyer-drawers ſhould, bring what they have ſo worked up to be weighed. And the ſame method uſed for any Bullion that is de<g ref="char:EOLhyphen"/>ſigned to be worked up, if this or any other method could be put in practice, one Half-penny in an ounce would defray the Charge, and ſave the Life of many a Man; for if this be practiſed, thoſe that ſteal Plate cannot ſo eaſily diſpoſe of it.</p>
+            <p>Another Reaſon we find for the Decreaſe of our coyned Mony, proceeds from the great Increaſe of the uſe of Plate in the Pub<g ref="char:EOLhyphen"/>lick and Private-houſes, which I compute amounts to as much (if it doth not more) as the Silver Coyn in the Kindom, the very Improvement of which in Trade I leave any to judge how uſeful it would be to promote the Nations Intereſt, which now lyeth dead; beſides, advanceth the price of Silver and Gold, and occaſi<g ref="char:EOLhyphen"/>oneth thereby the melting-down of our Coyn; and if there be but ſeven Millions of Pounds Sterling in Houſhold Plate (and things made thereof) and in Gold Rings, Buttons, Buckles, Watches, Sword-hilts, <hi>&amp;c.</hi> the very Intereſt of that Mony at ſix <hi>per Cent.</hi> amounteth to four hundred and twenty thouſand Pound a Year, and in ſeven Years, with the Annual Intereſt, amounts to three Millions and five hundred twenty five thouſand four hundred and ten Pounds Sterling.</p>
+            <p>Therefore it would be highly neceſſary that no Perſon but of ſuch a Quality ſhould be ſuffered to uſe Plate in their Houſes or Utenſils made thereof, or at leaſt not any pieces of Plate above ſuch a value; and thoſe that will have more, to take out a Li<g ref="char:EOLhyphen"/>cenſe for it, and pay the King five <hi>per Cent. per Annum</hi> for it to<g ref="char:EOLhyphen"/>wards the ſupport of the National Expences.</p>
+         </div>
+         <div n="3" type="chapter">
+            <pb n="5" facs="tcp:94821:6"/>
+            <head>
+               <hi>CHAP. III.</hi> Setting forth the neceſſity there is at this time to rectifie the preſent Coyn of this Kingdom, which is ſo much adulterated and leſſened by Coyning and Clipping.</head>
+            <p>THE Arguments for the proving the neceſſity there is for the immediate Regulating of the Coyn might be many, but for Brevity ſake, I will reduce them to theſe following.</p>
+            <p>
+               <hi>Firſt,</hi> That from the preſent Exorbitant riſe of our Coyn, and the Bullion of which its made, we come to loſe as much Mony as the Mony is advanced, by the Goods we Export. As for inſtance, to make it more plain, I ſhip for <hi>Spain</hi> one hundred pieces of Serges, which coſt me two hundred Pounds all Charges aboard, and before the riſe of our Coyn and Bullion, would ſell in <hi>Spain</hi> for twelve pieces of Eight aboard in Gold (or pieces of Eight.) But now our Coyn is riſen, and the Bullion of which it's made, I can ſell the ſame Goods for Eight pieces of Eight, being thoſe Eight will yield me here in <hi>England</hi> as much as the Twelve did be<g ref="char:EOLhyphen"/>fore, ſo that by the riſe of our Coyn and Bullion, we come to loſe one third of the value of our Exports; and if we Export to the value of nine Millions a Year, we conſequently loſe three Millions of Pounds a Year, ſo long as our Coyn goeth unregulated; which alone I think is a ſufficient Argument to prove the neceſſity there is at preſent of regulating our Coyn and Bullion.</p>
+            <p>But it may be Objected, That although it be true we do loſe one third part of what we Export, yet its only on ſuch Goods as we ſell for Mony, with a deſign to bring it home: But that this hath no manner of influence on ſuch Goods as we ſell abroad, and return other Commodities for the proceed of them, which is for the greateſt part of the proceed of our Exports, and conſequently your Argument will not hold good, that it is ſo great a loſs to the Nation.</p>
+            <p>I ſay, ſtill the loſs is the ſame. Trade to what part of the World you pleaſe, their Coyn is the Standard by which their
+<pb n="6" facs="tcp:94821:7"/> Goods are Sold, and if you can make ſo much of their Coyn here at home, ſo conſequently the Goods you bring are rated to Coſt you; ſo let your Trade be for Mony or in Barter, it tends to the ſame end, and by it we lower our own Product and Manufactory, and raiſe that of other Nations, and Inrich them by our own Ruin.</p>
+            <p>Another Reaſon that may be given for Regulating our Coyn, is becauſe the poorer ſort of the People in the Kingdom pay more than the amount of any. Tax laid on them (for the ſupport of the War) hath amounted unto, particularly in Coals, Corn and all things made of Leather, theſe being bought and laid up by Monied Men, who conclude thereby they ſhall ſee their Principal and In<g ref="char:EOLhyphen"/>tereſt, and prevent the Loſs which they apprehend may be by the Coyn when regulated, and is a great occaſion of the riſe of moſt other things.</p>
+            <p>Another Reaſon that may be given for the Regulating of the Coyn, may proceed from the baſeneſs of the Mettle, and from the Clipped Mony, which latter being of leſs Value than Coyned for, giveth Incouragement to our Neighbours to Coyn Mony of the like weight (and probably not of the full Allay) and bring it over here, which may be believed from the great profit they may make, and of conſequence we may increaſe the national loſs five hundred thouſand Pound a Year; together with the bad Mony that may be impoſed upon us by them (and our own Country Men;) and its not unlikely but the demand of Bullion may ariſe the more from the Expence this way.</p>
+            <p>For hitherto, the Importation of our own Coyn hath not been regarded or taken notice of by the Officers of the Cuſtom houſe, or by others, ſuppoſing it to be only a return of what is carried out by Travellers, Soldiers and Seamen; and Mony brought over in a Bag ſealed up, is ſo delivered to the Perſon that goeth aboard for it; therefore it would be more convenient to have all Mony and Bul<g ref="char:EOLhyphen"/>lion lodged in ſome place, and after it was inſpected into, deli<g ref="char:EOLhyphen"/>vered to the Owners thereof, whereby the falſe Mony may be found out when ſo Imported. Beſides our Soldiers, Seamen and Tra<g ref="char:EOLhyphen"/>vellers take care to carry the beſt Mony out of the Kingdom; for tho' bad goeth here, it will not with other Nations; and then its liable to be Clipped there, and returned us.</p>
+            <p>Another Reaſon that may be given for the Regulating of our Coyn and Bullion, is that when its ſo done the Expence of the War
+<pb n="7" facs="tcp:94821:7"/> may be carried on with leſs Charge than now it is, for all Mony for the ſupply of our Fleet abroad coſts the King twenty nine <hi>per Cent.</hi> more than it may be done for when the Mony is regulated.</p>
+            <p>For they that have Mony abroad will not give it under five Shillings and ſix Pence a piece of Eight, becauſe the Silver in a piece of Eight will yield them ſo much, the Charge and hazard of bringing it home being deducted.</p>
+            <p>When <hi>Tangier</hi> was in poſſeſſion of the <hi>Engliſh,</hi> that Gariſon was ſupplied with pieces of Eight from <hi>Cadiz,</hi> at four Shillings and four Pence, which now coſts the Nation (to ſupply the Fleet) five Shillings and ſix Pence, and is twenty nine, and one ſixth <hi>per Cent.</hi> difference, and in five hundred thouſand Pounds, one hun<g ref="char:EOLhyphen"/>dred forty five thouſand eight hundred and thirty three Pound is ſaved.</p>
+         </div>
+         <div n="4" type="chapter">
+            <head>
+               <hi>CHAP. IV.</hi> Setting forth by what Method the Charge of Cal<g ref="char:EOLhyphen"/>ling in the preſent Mony, and reducing it to a deſigned Standard may be Accompliſhed.</head>
+            <p>FOR the making good the Loſs that may ariſe by the Clip<g ref="char:EOLhyphen"/>ped Mony, I do not apprehend any Method more effectual than the calling in all the coyned Silver and Gold, and re-coyn<g ref="char:EOLhyphen"/>ing it into pieces of the ſame denomination, but of leſs Value in Subſtance.</p>
+            <p>And that value, leſs in ſubſtance, to be in proportion to what is requiſite for making good the Loſs by the clipped Mony, which I do compute to be at leaſt two Millions of Pounds Sterling. Thus,</p>
+            <p>I ſuppoſe eight Millions of People, and they to have twenty Shillings one with another in coyned Silver, and that three quar<g ref="char:EOLhyphen"/>ters of it is clipped, which is ſix Millions, and that one third of that is clipped and worn away, ſo that two Millions will be the Sum required to make the ſame good.</p>
+            <p>It cannot be imagined that I have undertaken to Treat on this Subject without making ſome Inquiry into the quantity of the
+<pb n="8" facs="tcp:94821:8"/> Mony there may be, and what may be loſt by the clipped Coyn. And altho I may err in the Computation of the quanity, yet the quality may be pretty near computed, and upon tryal, I have found,</p>
+            <p>That five Shillings of Milled-mony hath weighed eight Shil<g ref="char:EOLhyphen"/>lings of the preſent currant Mony, and three Shillings of the eight was not clipped, only worn.</p>
+            <p>Again, I have found ten Shillings in Mill'd-mony to weigh twenty one Shillings of the clipped Mony.</p>
+            <p>Again, Twenty Shillings Mill'd-mony to weigh forty three Shillings of our now Currant Mony.</p>
+            <p>I have gone to ſeveral Goldſmiths in <hi>London,</hi> and have got them to take out of their Counters a Bag of one hundred Pounds (as came to hand) which upon tryal I have found at one place to weigh</p>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">
+                        <hi>Oz.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>dw.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>gr.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>A Bag of</hi> 100 l.</cell>
+                     <cell>230</cell>
+                     <cell>13</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Another place 100 l. weighed</hi>
+                     </cell>
+                     <cell>222</cell>
+                     <cell> </cell>
+                     <cell>15</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Another place</hi>
+                     </cell>
+                     <cell>198</cell>
+                     <cell>17</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Another place</hi>
+                     </cell>
+                     <cell>190</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Another place</hi>
+                     </cell>
+                     <cell>182</cell>
+                     <cell>3</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Another place</hi>
+                     </cell>
+                     <cell>174</cell>
+                     <cell>11</cell>
+                     <cell>20</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>1198</cell>
+                     <cell>05</cell>
+                     <cell>17</cell>
+                  </row>
+               </table>
+            </p>
+            <p>The ſix hundred Pounds weighing in all one thouſand one hun<g ref="char:EOLhyphen"/>dred ninety eight Ounces, five penny Weight, and ſeventeen Grains, and is no more than what three hundred and ten Pounds in Mill'd-mony will weigh.</p>
+            <p>I am informed the Mony paid into the <hi>Exchequer</hi> doth weigh from fifteen (and ſeldom the 100 <hi>l.</hi> reacheth) to twenty Pounds weight: So that the very beſt brought in there doth not weigh two thirds of what it ought to do, and the Mony paid into the <hi>Exchequer</hi> is ſuppoſed a great part of it to come from the Country.</p>
+            <p>But as it's believed that the Mony in the Country is generally not the one half ſo bad as it's in and near <hi>London,</hi> I have procured an Account to be ſent me from the following Cities, from whence I am informed, that one hundred Pounds doth weigh on tryal of two Bags in each place, to be, <hi>viz.</hi>
+            </p>
+            <pb n="9" facs="tcp:94821:8"/>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">
+                        <hi>Oz.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>dw.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>gr.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>In the City of</hi> Briſtol <hi>one Bag of</hi> 100 l. <hi>weighed</hi>
+                     </cell>
+                     <cell>240</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>another weighed</hi>
+                     </cell>
+                     <cell>227</cell>
+                     <cell>15</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>In the City of</hi> Cambridge <hi>a Bag of</hi> 100 l. <hi>weighed</hi>
+                     </cell>
+                     <cell>203</cell>
+                     <cell>05</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>another weighed</hi>
+                     </cell>
+                     <cell>211</cell>
+                     <cell>00</cell>
+                     <cell>19</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>In the City of</hi> Exon <hi>one Bag of</hi> 100 l. <hi>weighed</hi>
+                     </cell>
+                     <cell>180</cell>
+                     <cell>07</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>another weighed</hi>
+                     </cell>
+                     <cell>192</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>In the City of</hi> Oxford 100 l. <hi>in half Crowns weighed</hi>
+                     </cell>
+                     <cell>216</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>100 <hi>in Shillings</hi>
+                     </cell>
+                     <cell>198</cell>
+                     <cell>00</cell>
+                     <cell>15</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Oz.</hi>
+                     </cell>
+                     <cell>1669</cell>
+                     <cell>01</cell>
+                     <cell>20</cell>
+                  </row>
+               </table>
+            </p>
+            <p>The eight hundred Pounds weighing ſixteen hundred and ſixty nine Ounces, one Penny weight, and twenty Grains; and is not more than four hundred thirty one Pounds fifteen Shillings of Mill'd-mony will weigh, and but a very ſmall dif<g ref="char:EOLhyphen"/>ference between the weight of the Mony in <hi>London</hi> and the Country.</p>
+            <p>And if there be but four Millions and three hundred thouſand Pounds, it will require two Millions to make good; theſe are Experiments that any may make with very little trouble, and on which I make my further Computation; ſince two Millions of Pounds, is the Sum ſuppoſed or calculated to be neceſſary for the making good of the clipped Mony, the next thing to be conſidered is how to raiſe it.</p>
+            <p>For effecting of which it will be neceſſary to make an eſtimate of the coyned and uncoyned Silver and Gold that may be in the Kingdom, which I compute to be</p>
+            <p>Eight Millions in coyned Silver.</p>
+            <p>Three Millions in coyned Gold.</p>
+            <p>Four Millions in uncoyned Silver.</p>
+            <p>One Million in uncoyned Gold.</p>
+            <p>Which ſeveral Valuations amount to ſixteen Millions of Pounds Sterling, and if twelve and a half <hi>per Cent.</hi> be taken from it, the ſaid twelve and a half <hi>per Cent.</hi> will amount to two Millions of Pounds, and will anſwer the loſs by the Clipped-Mony.</p>
+            <pb n="10" facs="tcp:94821:9"/>
+            <p>So that what Mony is new Coyned, muſt be at the rate of twelve and a half <hi>per Cent.</hi> leſs weight each ſpecies than before it was coyned for.</p>
+            <p>And the Gold and Plate that is uncoyned advanced twelve and a half <hi>per Cent.</hi> in like proportion.</p>
+            <p>For the Collecting of the ſaid twelve and a half <hi>per Cent.</hi> to be raiſed on the Houſhold-plate and Gold, and things made thereof, I would have every one that hath any, be obliged to carry it to the <hi>Tower</hi> (or to Places appointed for the ſame purpoſe) and there have the 12½ <hi>per Cent.</hi> taken out in ſpecie, or paid down in Mony (at the Election of the Owner) and when ſo done, it ſhould be ſtamped, and when ſo ſtamped, it ſhould be of twelve and a half <hi>per Cent.</hi> more value than before, to countervail for what was taken out and paid into the Mint.</p>
+            <p>And all things made of Gold or Silver after a day prefixed, that ſhould be found or offered to be ſold, or left by any Deceaſed unſtamped, ſhould be forfeited.</p>
+            <p>And all Bullion either Gold or Silver, wrought or coyned, Im<g ref="char:EOLhyphen"/>ported into the Kingdom, to pay ſeven and a half <hi>per Cent.</hi> in time of War on the Importation, and ten <hi>per Cent.</hi> in time of Peace; and then alſo ſtamped, thereby to prevent the impo<g ref="char:EOLhyphen"/>ſing on us coyned Mony from foreign Parts, for if they have the incouragement of five <hi>per Cent.</hi> in time of War, and two and a half <hi>per Cent.</hi> in time of Peace on the Importation, they'll never run the hazard (nor can afford to be at the Charge) to Coyn Mony.</p>
+            <p>And although I have propoſed the Raiſing of our Mony twelve and a half <hi>per Cent.</hi> yet it ought to be conſidered whether 2 <hi>l per Cent.</hi> Allay may not be neceſſary to add to it, the Reaſons <hi>pro</hi> and <hi>con</hi> being theſe.</p>
+            <p>
+               <hi>Firſt,</hi> That Allay in Silver or Gold doth make it the more durable.</p>
+            <p>
+               <hi>Secondly,</hi> When the Coyn hath Allay, and not the Houſhold<g ref="char:EOLhyphen"/>plate, <hi>&amp;c.</hi> it's not ſo lyable to be melted down, for the Charge and Trouble for to ſeparate it will much diſcourage the working it up, being more eaſie to add Allay to it, than to ſubſtract it from what hath been coyned.</p>
+            <pb n="11" facs="tcp:94821:9"/>
+            <p>
+               <hi>Thirdly,</hi> The putting in Allay into our coyned Money will prevent its being Exported, or if Exported will occa<g ref="char:EOLhyphen"/>ſion its return again, no duty being laid on ſuch Money re<g ref="char:EOLhyphen"/>turned.</p>
+            <p>The Objections that I foreſee will be brought againſt the adding of Allay to our coyned Silver and Gold, are theſe.</p>
+            <p>
+               <hi>Object.</hi> 1. That Metals that are mixed, may be the better falſified, and the Colour, Sound, and Weight not ſo well diſtinguiſhed.</p>
+            <p>
+               <hi>Anſwer,</hi> For the ſame reaſon, I propoſe only two and a half <hi>per Cent.</hi> and not twelve and a half <hi>per Cent.</hi> Allay to make up the weight taken from it, which cannot make any great difference in the colour, ſound or weight, but it may be diſcovered if a greater proportion be added, at leaſt ſuch a proportion as to countervail the undertaking.</p>
+            <p>
+               <hi>Object.</hi> 2. But if there ſhould be occaſion for the future to alter the Money, it cannot be ſo well done as by Money of pure Silver.</p>
+            <p>
+               <hi>Anſwer.</hi> When all our Money hath proportionable Allay in it, it may be raiſed or lowred without recoyning; and for the ſame reaſon (with others I ſhall ſhew hereafter) I propoſe the recoyning all our preſent Monies, as well what is not, as is clipped.</p>
+            <p>
+               <hi>Object.</hi> 3. But it will be a diſhonour to the King (and King<g ref="char:EOLhyphen"/>dom) to have his Stamp on mixed Money.</p>
+            <p>
+               <hi>Anſwer.</hi> Two and a half <hi>per Cent.</hi> is but a ſmall addition to the Allay, our Coyn hath at preſent, and it cannot be believed any diſhonour ſince, it's the practice of other Nations as well as it's of our own, witneſs our Copper Money.</p>
+            <p>Having laid before you my propoſal for the raiſing of two Millions of Money by raiſing the Coyn twelve and a half <hi>per Cent.</hi> and all houſehold Plate and things made of Plate and Gold, and laying an Impoſition on all Plate Bul<g ref="char:EOLhyphen"/>lion or foreign money Imported, I proceed in the next place to anſwer thoſe Objections that may ariſe from the Propoſal, eſpecially ſuch as have not any reference to Trade, which I deſign the Subject of the next Chapter.</p>
+            <pb n="12" facs="tcp:94821:10"/>
+            <p>
+               <hi>Object.</hi> I. I ſee by your Propoſal you would have all the Silver Coyn called in, as well that which is not, as that which is clipped, and defaced, which will be an unneceſſary Charge and Trouble.</p>
+            <p>
+               <hi>Anſwer.</hi> The reaſon why I propoſe the recoyning of the good as well as the bad Money, proceeds from the Confuſi<g ref="char:EOLhyphen"/>on there will be otherwiſe in all receipts and payments, for if the old Coyn (that is unclipped) be only raiſed in pro<g ref="char:EOLunhyphen"/>portion to the new Coyn twelve and a half <hi>per Cent.</hi> there will be odd fractions of Farthings (as I ſhall ſhew hereafter) which will be very troubleſome in Accounts, and to raiſe the ſix pence to ſeven pence, and ſo the Shilling, half Crown, and Crown in proportion, is to raiſe ſixteen and two thirds <hi>per Cent.</hi> and is more than requiſite to be raiſed for the end deſigned, and nothing leſs will make each Species even pence.</p>
+            <p>So if the unclipped Money be not recoyned, it muſt be raiſed four one ſixth, or eight two Thirds, or twelve and a half <hi>per Cent.</hi> for if it be under or over either of theſe, the Fractions in the ſeveral Species will be under or over a Farthing.</p>
+            <p>Now if you advance our Silver and Gold twelve and a half <hi>per Cent.</hi> and the Import thereof be ſixteen Millions, it will raiſe ſix hundred ſixty ſix thouſand ſix hundred ſixty ſix Pounds, thirteen Shillings and four Pence, and then the old Coyn, if only raiſed in proportion, and not all recoyned again</p>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">l.</cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The Guinney that did paſs for</hi> 21<g ref="char:punc">▪</g> s. 6 d. <hi>muſt paſs for</hi>
+                     </cell>
+                     <cell>1</cell>
+                     <cell>02</cell>
+                     <cell>4¾</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The Crown that paſſed for</hi> 5 s. <hi>muſt paſs for</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>5</cell>
+                     <cell>02½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The half Crown that paſſed for</hi> 2 s. 6 d. <hi>muſt paſs for</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>2</cell>
+                     <cell>07¼</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The Shilling muſt paſs for</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>1</cell>
+                     <cell>00½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The ſix Pence muſt paſs for</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                     <cell>06¼</cell>
+                  </row>
+               </table>
+            </p>
+            <p>If the Coyn and Plate be advanced eight and one third <hi>per Cent.</hi> it will raiſe on Million three hundred thirty three thou<g ref="char:EOLhyphen"/>ſand three hundred thirty three Pounds, ſix Shillings and eight Pence; and then, if not all recoyned,</p>
+            <pb n="13" facs="tcp:94821:10"/>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">l.</cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The Guinney muſt paſs for</hi>
+                     </cell>
+                     <cell>1</cell>
+                     <cell>03</cell>
+                     <cell>03½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The Crown for</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>05</cell>
+                     <cell>05</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The half Crown for</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>02</cell>
+                     <cell>08½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The Shilling for</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The ſix Pence for</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>06½</cell>
+                  </row>
+               </table>
+            </p>
+            <p>If our Coyn and blate, <hi>&amp;c.</hi> be raiſed twelve and a half <hi>per Cent.</hi> it will raiſe two Millions, and if not all recoyn<g ref="char:EOLhyphen"/>ed then
+<table>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">l.</cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The Guinney muſt paſs for</hi>
+                     </cell>
+                     <cell>1</cell>
+                     <cell>04</cell>
+                     <cell>02¼</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The Crown for</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>05</cell>
+                     <cell>07½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The half Crown for</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>02</cell>
+                     <cell>09¾</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The Shilling for</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>01½</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The ſix Pence for</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>06¾</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Another reaſon that may be given for the recovering all the preſent Money both clipped and unclipped, is becauſe its im<g ref="char:EOLhyphen"/>poſſible for to coyn new Money in proportion to the value of the old, for the old Money hath been already culled, and the weighteſt gone, and what if left is light and worn, ſo that the new Coyn will be ſtill better if not abated in ſubſtance, and that cannot be becauſe there is a great difference in the weight of the pieces of Money, ſo that ſtill the new Coyn will go from us or be melted down, and the old remain. And the ſame inconveniency there will be to have more Allay in one than the other.</p>
+            <p>If theſe difficulties can be overcome, I agree with you it will ſave a conſiderable Charge and Trouble, and the Me<g ref="char:EOLhyphen"/>mory of the preceeding Kings and Queens will be the better retained from the keeping of their Coyn.</p>
+            <p>
+               <hi>Object.</hi> But if you recoyn all the preſent Money in the Kingdom, in the interval where ſhall we have Money to car<g ref="char:EOLhyphen"/>ry on our Trade, and for Houſehold Expences, <hi>&amp;c.</hi>
+            </p>
+            <pb n="14" facs="tcp:94821:11"/>
+            <p>
+               <hi>Anſwer, Firſt,</hi> I would have the twelve and a half <hi>per Cent.</hi> raiſed out of the uncoyned Silver and Gold, and the ſame coyned into Shillings and ſix Peny pieces, which may amount to a Million of Pounds.</p>
+            <p>Then I would have the half Crowns that are clipped called in, and coyned into Shilling and ſix Peny pieces alſo; and paid for out of the Money coyned from the houſehold Plate and Gold, <hi>&amp;c.</hi> as far as it will go, and if they amount to more, then Notes to be given for the over plus, which ſhould be as currant Money untill the half Crowns were new coyn<g ref="char:EOLhyphen"/>ed and delivered out.</p>
+            <p>When the half Crowns are paid for then I would have the clipped Shillings and ſix Peny pieces called in, and new coyn<g ref="char:EOLhyphen"/>ed into half Crowns.</p>
+            <p>Then the unclipped Money called in, and coyned into Crowns; and the Gold into Guinneys and half Guinneys.</p>
+            <p>And all Money unclipped ſhould paſs in proportion to the riſe of the Money immediately, and brought into the <hi>Mint</hi> and ſtamped, paying the twelve and a half <hi>per Cent.</hi>
+            </p>
+            <p>And by this method we may carry on our Trade, and ſup<g ref="char:EOLhyphen"/>ply our ſelves for houſehold Expences, <hi>&amp;c.</hi> till the whole was finiſhed.</p>
+            <p>
+               <hi>Object.</hi> But notwithſtanding you by your Calculation do make the loſs by the clipped Money to amount to two Mil<g ref="char:EOLhyphen"/>lions of Pounds, and bring a Computation thereof from what you have had weighed, yet it can-never be believed to be ſo much, for you do not conſider that ſince the riſe of the Gold, that great quantities of Milled and unclipped Money have been hoarded up (in lieu of the Gold) expecting an advantage by the Silver, whenever the Coyn is regulated. There<g ref="char:EOLhyphen"/>fore you muſt undoubtedly have over computed the Loſs, and of conſequence the Sum, required to make it good: And therefrom you do but diſquiet the People, and make the regulati<g ref="char:EOLhyphen"/>on of the Coyn more difficult.</p>
+            <p>
+               <hi>Anſwer.</hi> If I have over Computed the<g ref="char:punc">▪</g> Loſs, it will not be ſo great an Error as if it had been under Computed, for ſhould it fall ſhort, and a ſtop be put to the execution of the whole, then what may be done, may be to do again by that time you can raiſe Money for it. And then alſo it cannot be by
+<pb n="15" facs="tcp:94821:11"/> the ſame method, having coyned at firſt in proprortion to your firſt Computation.</p>
+            <p>But by being over it may be applyed to the Charge of the War, for which Money muſt be raiſed.</p>
+            <p>But you'll find I have Computed it alſo for ſix hundred ſix<g ref="char:EOLhyphen"/>ty ſix thouſand ſix hundred ſixty ſix Pounds, thirteen Shillings and four Pence, which is four and one ſixth <hi>per Cent.</hi> advance, then I have Computed it for one Million three hundred thirty three thouſand three hundred thirty three Pounds ſix Shillings and eight Pence, which is eight and one third <hi>per Cent.</hi> advance, and then for two Millions of Pounds, which is twelve and a half <hi>per Cent.</hi> advance, ſo that either of theſe may be taken as may be found neceſſary.</p>
+            <p>But if the coyned and uncoyned Silver and Gold in the Kingdom ſhould be but eight Millions (as ſome Compute) and one Million required to make good the loſs, yet twelve and a half <hi>per Cent.</hi> muſt be raiſed, for as the loſs by the one abateth, ſo doth the value of the other in proportion prove leſs.</p>
+            <p>
+               <hi>Object.</hi> But it will be unreaſonable that every one ſhould be obliged to carry their Plate to the <hi>Tower,</hi> or to the next Mar<g ref="char:EOLhyphen"/>ket Town they live at becauſe ſome may live Miles from a Market (and many of thoſe Gentry) that may have more Plate and unclipped Money than they would run the hazzard of to carry to and from the next Market Town.</p>
+            <p>
+               <hi>Anſwer,</hi> In ſuch a caſe, the perſon or perſons appointed for the ſtamping of Plate, <hi>&amp;c.</hi> may go to the Houſe of any perſon where they are adviſed to be above fifty Pounds va<g ref="char:EOLhyphen"/>lue of Plate to be ſtamped, or any Villiage where they may bring it all to one houſe in the ſaid Villiage to have it done.</p>
+            <p>
+               <hi>Object.</hi> But how will it be poſſible for ſuch ſmall things as the Watches, Rings and other ſmall things made of Gold and Silver to be ſtamped: and if they are not ſtamped or marked, how ſhall it be known which of them have, and which of them have not paid.</p>
+            <p>
+               <hi>Anſwer,</hi> It's very true, there may be a great many things made of Silver and Gold that cannot bear Stamping, or marking now they are made up, but there is nothing but what may when making, therefore it would be neceſſary that an order may be
+<pb n="16" facs="tcp:94821:12"/> given for the future to have the Date of the Year, or any o<g ref="char:EOLhyphen"/>other Mark put on all ſuch things as ſhall be made for the future, and thereby they'll be known not liable for to pay. And for thoſe things that are already made, a Cirtificate may be given, what hath paid, ſpecifying the parcels, and to what value as near as can be gueſſed, and no body ſhould buy any ſuch things but the Owner ſhould produce the Cer<g ref="char:EOLhyphen"/>tificate, to have paid the twelve and a half <hi>per Cent.</hi> But this not to excuſe what can be ſtamped or marked.</p>
+            <p>
+               <hi>Object.</hi> But many people may be deſirous to keep the Old Coyns by them, either to the reſpect they have to the Me<g ref="char:EOLhyphen"/>mory of thoſe Kings or Queens in whoſe time they were coyn<g ref="char:EOLhyphen"/>ed, or as the Gift or Legacy of ſome particular Friend, and would think it hard to part from ſuch Pieces.</p>
+            <p>
+               <hi>Anſwer,</hi> They need not only paying the value they ought to pay in Money and ſuffering them to be Stamped, they may retain the quantity of any Coyns they deſire.</p>
+            <p>
+               <hi>Object.</hi> But why may not our Coyn be only raiſed, and the uncoyned Plate and Gold excuſed, and all Plate and Bullion that ſhall be Imported ſince the Charge and Trouble there<g ref="char:EOLhyphen"/>from will be ſo great?</p>
+            <p>
+               <hi>Anſwer,</hi> If our Coyned Silver and Gold be only raiſed, then we ſhould have as many Coyners as there are at preſent Clip<g ref="char:EOLhyphen"/>pers, from the advance they would make by buying up of Plate and Gold, and then Coyning it, and the like may be done in Foreign Parts with leſs hazzard, and Imported hi<g ref="char:EOLhyphen"/>ther, and beſides, the uncoyned Plate and Gold would in a ſhort time advance thereby near to the value in the coyned Money, and be only an advantage to particular perſons, and not the Nation in general.</p>
+            <p>
+               <hi>Object.</hi> But if the method you propoſe be put in practice it will be a great Charge to execute it, beſides that of new coyning the Moneys, from whence ſhall that Charge be paid.</p>
+            <p>
+               <hi>Anſwer,</hi> If two Millions be raiſed, then that two Millions will be of the new Coyn, two Millions, and two hundred and fifty thouſand Pounds, as being twelve and a half <hi>per Cent.</hi> of leſs weight, and will more than anſwer the Charge in execution of my Propoſal.</p>
+            <pb n="17" facs="tcp:94821:12"/>
+            <p>
+               <hi>Object.</hi> You by your Computation do make to be three Mil<g ref="char:EOLhyphen"/>lions of Guinnies, and old Gold to be in the Kingdom, which going now at 30 <hi>s.</hi> a piece, when the Money is regulated will be 8 <hi>s. 6 d.</hi> loſs in each Guinney, and is 42 <hi>per Cent.</hi> and this loſs will be the ruin of many Tradeſmen, and thoſe that had never any hand in the raiſing of them, or benefit by them, and it will be very hard they ſhould thus ſuffer, ſo great a loſs, and the Conſequences thereof may be of greater detriment than at preſent may be foreſeen.</p>
+            <p>For never was a greater demand of our Manufactory than now, which proceeds in a great meaſure from the apprehenſi<g ref="char:EOLhyphen"/>on of the neceſſity there is to regulate our Coyn, therefore every one is imploying their Moneys in Goods, to avoid the loſs that may accrue to them by the Gold, or the bad<g ref="char:EOLhyphen"/>neſs of the Silver. And therefore this loſs will be ſevere to the Managers and Workers of our Manufactory; and Tradeſ<g ref="char:EOLhyphen"/>men who they'll now pay, for to put off their Gold.</p>
+            <p>
+               <hi>Anſwer.</hi> I am very ſenſible of the great loſs it will be, by the fall of the Guinnies, and of the Conſequence that may be therefrom, therefore I would have the amount of the Impoſi<g ref="char:EOLhyphen"/>tion laid on Plate, Bullion and Foreign Coyn, appropriated to make good that loſs, and be a Fund to pay the Annual Inte<g ref="char:EOLhyphen"/>reſt thereof, which may anſwer the principle.</p>
+            <p>
+               <hi>Object.</hi> But as the Import of Bullion, Plate, and Money in<g ref="char:EOLhyphen"/>to our Kingdom is a benefit to it, it cannot be imagined the Parliament will lay an Impoſition thereon, but rather Incou<g ref="char:EOLhyphen"/>rage the bringing it in, by ſome allowance to the Importer.</p>
+            <p>
+               <hi>Anſwer,</hi> The Impoſition laid on the Importation of Plate, Bullion, and Foreign Money (by my Propoſal) will be no hindrance but an incouragement to the Importers thereof, for in time of War, they have 5 <hi>per Cent.</hi> and in time of Peace 2½ <hi>per Cent.</hi> advantage thereby, as you ll ſee by it, for if the Plate and Bullion be advanced twelve and a half <hi>per Cent.</hi> and the Importer pay but Seven in time of War, and Ten in time of Peace, the remaining 5. or 2½ <hi>per Cent.</hi> is profit to them, and it ought not to be more being Foreign Commodities will riſe in proportion to the incouragement you give, for the Importation of Plate, Bullion, or Foreign Coyns.</p>
+            <pb n="18" facs="tcp:94821:13"/>
+            <p>
+               <hi>Object.</hi> But if when our War is over and our Trade im<g ref="char:EOLhyphen"/>proved, it ſhould be thought neceſſary to reduce our Coyn again to the preſent Standard undoubtedly, that Charge and future Trouble may be avoided by keeping it ſo now.</p>
+            <p>
+               <hi>Anſwer,</hi> Should it be thought convent hereafter for to reduce our Money to the preſent Standard it is of (or ought to be) then it would be neceſſary to recoyn all our Money of ſame Weight and Allay they are at (or ſhould be) at preſent, and to make them Current at Sixteen and two Thirds <hi>per Cent.</hi> more than they go for now, and then the ſeveral pieces will be</p>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">l.</cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The Guinney that paſſed for</hi> 21 s. 6 d. <hi>muſt paſs for</hi>
+                     </cell>
+                     <cell>1</cell>
+                     <cell>05</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The Crown for</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>05</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The half Crown</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>02</cell>
+                     <cell>11</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The Shilling for</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>01</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The Six-pence.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                     <cell>07</cell>
+                  </row>
+               </table>
+            </p>
+            <p>But in ſuch a caſe I would have all Coyn, I late and Bul<g ref="char:EOLhyphen"/>lion that is Imported to pay Eleven and two Thirds <hi>per Cent.</hi> in time of War, and fourteen and one ſixth <hi>per Cent.</hi> in time of Peace. And then alſo all uncoyned Plate and Bullion in the King<g ref="char:EOLhyphen"/>dom either Gold or Silver to pay Sixteen two Thirds <hi>per Cent.</hi> proportionable to the riſe of the Coyn.</p>
+            <p>But I would have but twelve and a half <hi>per Cent.</hi> taken out of the Gold, and the other four ⅙ <hi>per Cent.</hi> go towards paying that loſs that the owners will have by them, which loſs will be the ſooner paid by the Duty on the Plate and Bullion Imported.</p>
+            <p>And all money uncliped ſhould pay but twelve and a half <hi>per Cent.</hi> alſo whereby it will prevent thoſe that have it to clip it.</p>
+            <p>But ſtill ſhould we be obliged to reduce our Coyn to the preſent Standard when the War is over, yet I do not fore<g ref="char:EOLhyphen"/>ſee (while we are ingaged in it) we can avoid the raiſ<g ref="char:EOLhyphen"/>ing of our money and the Bullion of which it's made.</p>
+            <pb n="19" facs="tcp:94821:13"/>
+            <p>For I apprehend the laying a ſevere penalty on any that ſhall take more for any foreign Commodity (as Bullion is) then ſuch a price (which he cannot afford it at) is in effect to prohibit the ſame.</p>
+            <p>Again if Bullion be under the value of our Coyn, then of conſequence it will be melted down, and both what we have in Bullion or Coyn will go out of the Kingdom as faſt as the Gold hath of late come in.</p>
+            <p>Again, ſhould we not raiſe our Plate and Bollion as well as our Coyn, you lay a Tax on the poſſeſſors of the Money, and advance thoſe that are owners of the Plate and Bullion: And I think the general good of the Nation ought to be pre<g ref="char:EOLhyphen"/>ferred before that of particular perſons, who are alſo ſuch that have reaped a Benefit by the Calamity others lye under.</p>
+         </div>
+         <div n="5" type="chapter">
+            <head>
+               <hi>CHAP. V.</hi> Whether the Method propoſed for the Advancing our Money and the Bullion of which it's made, be Convenient or In<g ref="char:EOLhyphen"/>convenient for the Trade of the Nation.</head>
+            <p>BEfore I Treat of the Inconveniencies, or Conveniencies that may follow the raiſing of our Coyn, Plate and Bul<g ref="char:EOLhyphen"/>lion, it will be neceſſary to anſwer one Queſtion that may ariſe, which is,</p>
+            <p>Whether the regulating of our Trade will not more effe<g ref="char:EOLhyphen"/>c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ually anſwer the end propoſed, than the raiſing of our Money, Plate and Pullion; for if our Imports do exceed our Exports, of Conſequence the Balance of our Trade muſt be paid in Bullion or Coyn, or our Trade muſt Sink.</p>
+            <p>
+               <hi>Anſwer,</hi> That the Improvement of our Trade will increaſe our Coyn and Bullion is moſt certain, and is of as great impor<g ref="char:EOLhyphen"/>tance that the proſecution thereof be carryed on (for that end) as far as the preſent Circumſtances of our Nation will permit, during the War, which may extend ſo far as to ba<g ref="char:EOLhyphen"/>lance
+<pb n="20" facs="tcp:94821:14"/> our Trade with other Nations, and alſo contribute towards the neceſſary expence of the War abroad.</p>
+            <p>But the regulating of our Trade can never anſwer the re<g ref="char:EOLhyphen"/>gulating of our Coyn, and making good our Clipped Money, which muſt be done either by raiſing the Value, or the rai<g ref="char:EOLhyphen"/>ſing of a Tax to make the ſame good.</p>
+            <p>Which is the next thing to be conſidered of, whether it be not more the intereſt of the Nation to raiſe a Tax, and make good the clipped Money (and keeping it up to its former Standard) than by raiſing the value thereof, and the Bullion of which it's m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>de.</p>
+            <p>With ſ<gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>iſſion to better Judgments, I do apprehend it <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt of our Nation to raiſe our Coyn, Plate and <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to raiſe a Tax for the making go<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d the clipped <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h at this juncture of time (or during the War) can<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> executed for theſe following reaſons.</p>
+            <p>
+               <hi>F<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> Should the Parliament find out a way to raiſe a Tax of two Millions of Money for the making good the clipped Coyn, ſuch a Tax in Conjunction with what muſt be neceſſa<g ref="char:EOLhyphen"/>rily raiſed for the ſupport of the War will be of as ill Con<g ref="char:EOLhyphen"/>ſequence to raiſe (in one year) as the making good the clipped Coyn is neceſſary.</p>
+            <p>For there will be a further Tax, or Loſs to the People (which i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> equivalent) of one Million of Money (if not more) by the bad Coyn.</p>
+            <p>And more one Million two hundred ſeventy five thouſand Pounds by the fall one Guinnies (which they will do when the Silver Coyn is regulated) and Compute but three Millions of them and in Old Gold.</p>
+            <p>So that four Millions two hundered ſeventy five thouſand Pounds will be the Sum the Nation muſt pay, or will ſuffer one way or other; beſides what muſt be raiſed for the ſup<g ref="char:EOLhyphen"/>port of the War.</p>
+            <p>And when a Tax is given for two Millions of money, for the making good the clipped Coyn, it will be a year in the raiſing (beſides the Charge) and another year before the mo<g ref="char:EOLhyphen"/>ney can be recoyned, in which time we ſhall too ſenſibly in<g ref="char:EOLhyphen"/>creaſe our Debt on the Balance of Trade.</p>
+            <pb n="21" facs="tcp:94821:14"/>
+            <p>And although the money ſhould be anticipated, yet then it muſt increaſe the Charge from the Intereſt thereof.</p>
+            <p>But this muſt be effectual money, and not Credit, ſo that it will be the more difficult to raiſe, conſidering at the ſame time the bad money goeth not, nor the Guinnies, for above twenty one Shillings and ſix Pence.</p>
+            <p>Beſides ſhould our money be recoyned of the ſame Weight and Value, and fineneſs as it went for before, we have no greater ſecurity of keeping it in the Nation than we had, or can we thereby prevent its being melted down, for it hath been the Value of our Silver in the Milled-money, that hath been the occaſion of its being melted down, for Exportation or making up into Plate here.</p>
+            <p>Now the reaſon why I apprehend and affirm it to be the va<g ref="char:EOLhyphen"/>lue of our Coyn, that hath been the occaſion of its being melted down is this.</p>
+            <p>Silver and Gold is none of our own Product, but is brought from the <hi>Weſt-Indies, Guinney</hi> and <hi>Barbary,</hi> and nothing that cometh from Foreign parts, in time of War, but coſts more than in time of Peace, as we found here in <hi>England</hi> at the breaking out of the War, all Foreign Commodities immediate<g ref="char:EOLhyphen"/>ly were riſen, proportionably to the diſtance from whence they came, and the hazzard thereof: As did our Silver and Gold, for thoſe that had any in Bullion by them, at the breaking out of the War, were ſenſible it would be worth more, being before the War, they could inſure <hi>100l</hi> worth of Bullion home to <hi>England</hi> by a good man of War) at own Gui<g ref="char:EOLhyphen"/>ney <hi>per Cent.</hi> which afterwards would (and did) coſt ſeven <hi>per Cent.</hi> Here therefore is a reaſonable riſe for our Bullion.</p>
+            <p>But ſtill, this is not all in time of War, we have not thoſe frequent ſupplies as in time of Peace; this brings a ſcarcity of it, and that again raiſeth it more and more.</p>
+            <p>From whence people finding the profit that may be made by melting down of the Coyn, do it; others they Clip it, and thence again becomes another reaſon for the riſe of the Bul<g ref="char:EOLhyphen"/>lion, the badneſs of the Coyn, and the demand of Plate there<g ref="char:EOLhyphen"/>from.</p>
+            <pb n="22" facs="tcp:94821:15"/>
+            <p>And when the Materials of which any Commodity is made is dear, it's evident that Commodity muſt riſe: As when Corn is dear, Bread riſeth, and when Wooll is dear, our Seiges riſe, and ſo for other things, and Conſequently, I think that our Coyn ought to be raiſed.</p>
+            <p>And I cannot but think the King of <hi>France</hi> did raiſe his mo<g ref="char:EOLhyphen"/>ney at the opening of the War for this reaſon, and having been made uſe of ſeveral times, it's not to be doubted, but an advantage hath been found thereby, and a main ſupport to him in the preſent War.</p>
+            <p>And this is another reaſon for the raiſing our Coyn twelve and a half <hi>per Cent.</hi> and our Plate and Bullion, and money that is Imported to pay but ſeven and a half, or ten <hi>per Cent.</hi>
+            </p>
+            <p>Now ſince the method for the increaſing of our Bullion, and keeping of our Coyn (by the Improvement of our Trade and Manufactory) hath no influence to remedying our preſent clipped Money, we ought to purſue thoſe methods that will do it, which is by raiſing of our Coyn, and the Bullion of which it's made; and I am perſwaded will be more agreeable to the people, than the raiſing a Tax to make the ſame good. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> having been already done without an Act of Parliament, therefore it may be believed would be contented an Act ſhould paſs for it. For from the raiſing of our Coyn, we ſhall reap theſe advantages.</p>
+            <p>Firſt, <hi>There will be two Millions leſs to raiſe by a Tax on the People.</hi>
+            </p>
+            <p>Secondly, <hi>What is raiſed for the ſupport of the War, they'll be better able and will more Cheerfully Pay.</hi>
+            </p>
+            <p>Thirdly, <hi>It will give a larger extent to the Caſh of the Nation, and thereby lower the Intereſt of Money.</hi>
+            </p>
+            <p>Fourthly, <hi>Therefrom it will increaſe our Trade and Manufacto<g ref="char:EOLhyphen"/>ry, and from it our Navigation.</hi>
+            </p>
+            <p>Fifthly, <hi>Again from their Improvement will ariſe the Value of Land.</hi>
+            </p>
+            <p>Sixthly, <hi>We ſhall be the better able to hold out the Charge of the War, and he that can ſpend the laſt Pound, is like to prove the Victor, for its Money that ſupplyeth Men and all other Inſtruments of War, Offenſive and Defenſive.</hi>
+            </p>
+            <pb n="23" facs="tcp:94821:15"/>
+            <p>The Objections that may be againſt the raiſing of our Coyn and Bullion may be theſe.</p>
+            <p>
+               <hi>Object.</hi> But the Coyn of thoſe Countries that have any, hath been the M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſure or Standard in all times of our Trade and Commerce from one place to another, and of Conſequence, if we lower or raiſe ours in value, it will be of no validity for the end propoſed. But may be of great trouble to our Mer<g ref="char:EOLhyphen"/>chants, and put a ſtop in our Trade, untill ſuch time as it can again be regulated according to the riſe or fall of our Money</p>
+            <p>
+               <hi>Anſwer.</hi> The Objection had been very reaſonable, if it had been made by the Subjects of the King of <hi>Spain</hi> or <hi>Portugal,</hi> or by any people, or Nation that are obliged to ſuffer, or connive at the Export of their Coyn and Bullion, as not ha<g ref="char:EOLhyphen"/>ving ſufficient Manufactory of their own, to give in return for the Goods that are Expended of other Countries amongſt them.</p>
+            <p>And thoſe that carry ſuch a Kingdom, or Nation any ſort of Merchandize, and in Return or Exchange, receive coyned Money or Bullion, I will allow they muſt make a Computati<g ref="char:EOLhyphen"/>on of the Weight and Allay thereof, that it may ſo correſpond with that Country they carry it too, as that they may not loſe by it.</p>
+            <p>But I deny that our coyned Silver or Gold hath been, is or ought to be Standard for any Commodities that are Imported, but to thoſe people that Export our Coyn or Bullion in return for them. And that, that Trade that doth require it is the moſt pernicious Trade to our Nation.</p>
+            <p>And the Effect of raiſing of our Coyn will have this Benefit, that the Goods of ſuch a Kingdom or Nation, will advance in proportion to the riſe of our Coyn and Bullion. And there<g ref="char:EOLhyphen"/>from diſcourage the Importation of Commodities that are in<g ref="char:EOLhyphen"/>troduced (and we can be without) and prevent the offence that may be given to ſuch a Kingdom or Nation, by a prohibition which would be otherwiſe requiſite, and by this means we may the better balance our Trade with them.</p>
+            <p>But ſtill ſuppoſe we Import from every Kingdom or Nation<g ref="char:punc">▪</g> and People we Trade with, more of their Commodities than we do Export to them: And that the balance of the Account
+<pb n="24" facs="tcp:94821:16"/> of Trade may Import one Million of Pounds Sterling a Year (for it's evident it hath not been always ſo) which for the diſcharge of the Debt ſo contracted by our Trade, it's requi<g ref="char:EOLhyphen"/>ſite you ll ſay money or Bullion muſt go out of the Kingdom to pay the Balance, and will do notwithſtanding any Law to the Contrary.</p>
+            <p>That our Imports do exceed the value of our Exports now is not to be admired, ſince we loſe as much money as it's ad<g ref="char:EOLhyphen"/>vanced, in value by our Exports. So long as the Coyn goeth unregulated (as I have ſhewed in the third Chapter of this Book) and if we loſe thereby but two Millions a Year when our Coyn is regulated, we ſhall bring them in Debtors on the Balance, of Trade on Million a Year, which will ſupply the Expences of our Fleet and Armies abroad, without having occaſion to ſend out Coyn or Bullion.</p>
+            <p>
+               <hi>Object.</hi> But you give us an Example, that the riſe of our Gold and Silver is ſo great a diſadvantage to the Trade of the Nation, that from the preſent advance, that if we Trade for nine Millions, we loſe three thereof from our Exports. And yet you your ſelf propoſe a method, and would have it raiſed twelve and a half (or eight one third of four one ſixth <hi>per Cent.</hi> as there may be found occaſion) which ſeemeth a Paradox to your propoſition, for as I apprehend it, we ſhall then loſe in proportion to the riſe that may be made on the Coyn and Bullion.</p>
+            <p>
+               <hi>Anſwer,</hi> It may be ſo ſuppoſed by thoſe that have not well conſidered the propoſal it ſelf. But you ll find my propoſal different from what hath been practiſed by other Kingdoms, and that the advantage by the raiſing of our Coyn and Bulli<g ref="char:EOLhyphen"/>on will not accrue to any particular perſon, but to the Nati<g ref="char:EOLhyphen"/>on in general, for the twelve and a half <hi>per Cent.</hi> I propoſe to have taken out of the Gold and Silver, either in Coyn, Plate or Bullion that goeth to make good the preſent extraordi<g ref="char:EOLhyphen"/>nary want in the clipped money, and loſs by the riſe of Guinnies.</p>
+            <p>For if I pay eighty ſeven Pounds ten Shillings for Goods that I Export, and twelve Pounds ten Shillings to the Nati<g ref="char:EOLhyphen"/>on, I cannot ſell theſe Goods under one hundred Pounds. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd yet thoſe Goods ſhall not be the dearer abroad than be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>re whereby the expence of them will not be obſtructed.</p>
+            <pb n="25" facs="tcp:94821:16"/>
+            <p>
+               <hi>Object.</hi> But if our Coyn and Bullion be raiſed, all things whatſoever will riſe, as it did in <hi>Spain</hi> and <hi>Portugal,</hi> and there<g ref="char:EOLhyphen"/>fore we had better raiſe a Tax and make good the clipped money, than leave it to the mercy of each Trader to do.</p>
+            <p>Beſides they are likely to continue it, and if Taxed by Parliament, it may be but for a certain time.</p>
+            <p>
+               <hi>Anſwer,</hi> I do affirm it to be a general miſtake, (and do ap<g ref="char:EOLhyphen"/>peal to thoſe perſons that lived in <hi>Spain,</hi> or in <hi>Portugal</hi> at that time of the riſe of their Money in either of thoſe Kindom) for nothing did riſe that was the product of their Countries; as their Corn, Oyl, Wine, Fruit, Houſe-rent, Salaries, <hi>&amp;c.</hi> for what eight Ryals of the old money would pay for, eight of the new would anſwer, which was twenty <hi>per Cent.</hi> of leſs value in <hi>Spain.</hi> And nothing but what was imported into thoſe Kindoms did raiſe, and not the Exports of their own Growth and Manufactory, which as I have already hinted, proceded from the account that foreign Merchants made of their money, by reducing it to the Standard of the Country they ſent it to, which alſo proceeded from the want of Manufacories of their own, to Balance the account of Trade</p>
+            <p>And therefore they do (tho againſt their Law) connive at the Export of Plate and Bullion, for if they did not, they could not maintain their <hi>Indies,</hi> nor having Manufactories of their own Countries to ſupply them (and from whence is brought the Treaſure to <hi>Spain</hi>) and they not being ſupply<g ref="char:EOLhyphen"/>ed with Apparrel and thoſe neceſſaries they now receive, would ſoon Revolt from them, and have a Tradewith thoſe that could and would do it.</p>
+            <p>The laſt riſe of the money in <hi>Spain,</hi> was the 14 <hi>October</hi> 1686. their ſtile, when the piece of eight was advanced to ten Ryals, and the Vellone from 12 to 15 Ryals, and any that doubteth the Truth of what I have inſerted, may from hence examine their Expence Books, before and after that time; and alſo the price of <hi>Malaga-Fruit,</hi> and any other Goods bought with rea<g ref="char:EOLhyphen"/>dy Money, and not in Truck, or taken for an old Debt.</p>
+            <p>For I ſay all ſuch things or Commodities that uſed to be bought, and agreed in Vellone, did not riſe.</p>
+            <pb n="26" facs="tcp:94821:17"/>
+            <p>
+               <hi>Object.</hi> But if our Coyn and Bullion be raiſed, the King's Revenue will be ſo much the leſs (in proportion to what he receiveth) as the money is raiſed.</p>
+            <p>
+               <hi>Anſwer,</hi> I do not foreſee any loſs it can be to the King's Re<g ref="char:EOLhyphen"/>venue by the raiſing the Money, which of it ſelf is of no uſe, but for the purchaſing thoſe things that are uſeful, and if Pro<g ref="char:EOLhyphen"/>viſions, Clothing, Houſe-rent, Salaries and Wages is not raiſed (in which ſaid Revenue is ſpent) there can be no loſs to the Crown.</p>
+            <p>Nor can it be believed that any of our own product or Ma<g ref="char:EOLhyphen"/>nufactory will or ought to) riſe for the ſame reaſons, and the Experience we have found, that they have not (but ra<g ref="char:EOLhyphen"/>ther from the Taxes) although our Gold is advanced 42 ½ <hi>per Cent.</hi> (and our Silver Coyn now Currant, is not much a<g ref="char:EOLhyphen"/>bove half what it ought to be) therefore it may be believed it will not, wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n it's brought down to twelve and a half <hi>per Cent.</hi>
+            </p>
+            <p>The Tin-money that was, and the Copper-money that now is (was and is) as currant as our Gold and Silver (and now more) and though that wants of the Value, yet it purchaſeth any thing we have to buy at Market as well as our Silver without the Sellers raiſing the Value therefrom.</p>
+            <p>And I preſume nothing that is bought and paid for in Bank<g ref="char:EOLhyphen"/>Notes, is advanced the more, as not being in Specie, and the ſame Power that Eſtabliſhed the one, doing the other may be as good payment, and not ſo liable to the misfortune of a Domeſtick War as the Bank will be) ſhould any ſuch happen, not but that I think the Bank is of great advantage to the Na<g ref="char:EOLhyphen"/>tion now, and may be more hereafter.</p>
+            <p>
+               <hi>Object.</hi> But if you give ſo great incouragment to the Mer<g ref="char:EOLhyphen"/>chant Importer of Plate and Bullion, as 5 <hi>per Cent.</hi> in time of War, and two and a half <hi>per Cent.</hi> in time of Peace, then Foreigners from the advantage ariſing thereby, will be ſend<g ref="char:EOLhyphen"/>ing of Bullion and Plate over.</p>
+            <p>
+               <hi>Anſwer,</hi> From hence will ariſe our advantage, and I cannot apprehend any diſadvantage (unleſs what before hinted,) to us, the bringing of Gold and Silver into the Kingdom for it can<g ref="char:EOLhyphen"/>not be believed that they'll Import more than they Export Commodities of our Kingdom for, therefore the Conſequence
+<pb n="27" facs="tcp:94821:17"/> from it will be, we ſhall thereby increaſe our, Trade and Na<g ref="char:EOLhyphen"/>vigation, and therefrom the value of our Lands.</p>
+            <p>
+               <hi>Object.</hi> But if our Coyn and Bullion be raiſed, then the Soldiers and Seamen abroad cannot be ſuppli<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d with neceſſaries (without a great loſs) by the money ſo raiſed, for tho and Act of Parliament ſhould make the Coyn (ſo raiſed) Current here, in another Country they'll expect the full weight, and the King muſt raiſe the Officers and Soldiers and Seamen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s pay, as much as the Coyn is raiſed.</p>
+            <p>
+               <hi>Anſwer,</hi> When our Coyn is once regulated, and our Trade improved (as I have already ſet forth) we ſhall become the Creditors on the Balance of Trade, at leaſt on Millon a year, which is hoped may be ſufficient for to ſupply the neceſ<g ref="char:EOLhyphen"/>ſary Expences abroad, ſo that they ll be paid in the Coyn of the Country they are in, and will be no loſs to them, as not having occaſion to remit the Coyn or Bullion of our Kingdom to pay them.</p>
+            <p>
+               <hi>Object.</hi> But this Balance of Trade will belong to Merchants and not to the King, and they holding up of exchange of money ſo high from own place to another, it will be the ſame loſs to to the Kingdom, to remit it by exchange as in Coyn and Bullion.</p>
+            <p>
+               <hi>Anſwer,</hi> The high <hi>praemio's</hi> that are demanded, and given for the exchange of money from one place to another, proceed<g ref="char:EOLhyphen"/>eth from the over Balance of Trade, and from whence that ariſeth I have already in ſome part ſhown you.</p>
+            <p>That over balance of our Trade, cauſed the Export of our Bullion for the payment thereof, and that Export cauſed the riſe of our Gold and Silver.</p>
+            <p>The riſe of our Gold and Silver occaſioned the melting down and clipping of our Coyn, from the advantage thereby.</p>
+            <p>Then our money proving ſo bad by clipping and counter<g ref="char:EOLhyphen"/>fieting, occaſioned again the great riſe of Gold.</p>
+            <p>This great riſe on Gold, occaſioned the raiſing of the <hi>praemio</hi> of Exchanges.</p>
+            <p>For ſaith the Merchant that hath money abroad, I will have ſo much for the Exchange of the money, or I will bring it home in Specie; for here in <hi>England,</hi> it will yield me ſo much to Coyn,
+<pb n="28" facs="tcp:94821:18"/> and Gold and Silver is not worth more in other Countries this year than it was the laſt; but from the misfortune we lie under by our Coyn, which once regulated, you'll find it alſo in the exchange of money, and ſo long as it goeth unregulated we loſe the extraordinary <hi>praemio</hi> given.</p>
+            <p>
+               <hi>Object.</hi> But if our Coyn be raiſed, our Exchanges will riſe in proportion from one place to another, as it did in <hi>Spain,</hi> all Bills running ſo many pieces of Eight in Gold as it went before the Proclamation for raiſing the Coyn.</p>
+            <p>
+               <hi>Anſwer,</hi> I have already ſhewed the reaſon which proceeds from the ſame, as that of raiſing the Foreign Commodities in <hi>Spain.</hi> But I do not foreſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> any for the raiſing our Exchanges, for if one hundred pounds of our new raiſed money will pur<g ref="char:EOLhyphen"/>chaſe the ſame value of Goods as the old, there can be no reaſon to alter the Exchange, altho we ſhould our Coyn.</p>
+            <p>But the Members of the Bank of <hi>England</hi> will be the perſons moſt capable to regulate the Currant of Exchanges, by their examples in thoſe places where there is any.</p>
+            <p>
+               <hi>Obj<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ct.</hi> But the landed Men of this Kingdom, are thoſe on whom the greateſt Burthen of the War hath layen hitherto, and if our Coyn and Bullion be raiſed, of Conſequence their Land will be worth ſo much leſs Silver (if ſold) than before.</p>
+            <p>
+               <hi>Anſwer.</hi> We ſee Taxes lower the value of Land, and by the raiſing of our Coyn we excuſe the raiſing a Tax on it, beſides for raiſing of two Millions it's 20 <hi>per Cent.</hi> on the annual rent, and I cannot ſorſee where the landed men can ſuffer by it, but on the contrary of advantage to them.</p>
+            <p>To prove which we will ſuppoſe a Genleman of five hun<g ref="char:EOLhyphen"/>dred Pounds a year to have 100 <hi>l.</hi> worth of Plate and uncoyn<g ref="char:EOLhyphen"/>ed Silver and Gold, and ſo each of them in proportion to their yearly Income, and that inſtead of paying 100 <hi>l.</hi> for five hundred a year they have (at 8 <hi>per Cent.</hi>) they I pay but two years Intereſt of one hundred Pounds, and can looſe no more ſhould the Coyn and Bullion be brought again to the preſent Standard.</p>
+            <p>Again, I leave any to jude whether the landed Men would not ſuffer much more ſhould our Kindom be drained of its Coyn and Bullion (by which Trade will decay, and of conſe<g ref="char:EOLhyphen"/>quence
+<pb n="29" facs="tcp:94821:18"/> the Value of Lands leſſen) as it will do if our Mo<g ref="char:EOLhyphen"/>ney is not raiſed.</p>
+            <p>
+               <hi>Object.</hi> In <hi>Spain</hi> I remember on the riſe of the money, there were many Law Suits commenced about the Debts then owing, whether they ſhould be paid in the old or new Coyn, and for Goods contracted and not received, and on money depo<g ref="char:EOLhyphen"/>ſited and untold, which in the end proved a loſs to the Cre<g ref="char:EOLhyphen"/>ditor, and if ſuch ſhould happen here it would breed far gre<g ref="char:EOLhyphen"/>ter confuſion.</p>
+            <p>
+               <hi>Anſwer,</hi> From my propoſal there can be no manner of diſ<g ref="char:EOLhyphen"/>pute between Debtor and Creditor, for the value diſ<g ref="char:EOLhyphen"/>puted for in <hi>Spain,</hi> here goeth to the making good the clipped money, and can be no manner of advantage to either party.</p>
+            <p>
+               <hi>Object.</hi> But Gold and Silver is riſen every where abroad, to to the value that our Gold and Silver goeth for here, there<g ref="char:EOLhyphen"/>fore the value of our Bullion cannot be altered.</p>
+            <p>
+               <hi>Anſwer,</hi> I muſt confeſs I have heard the ſame Objection made, but not by perſons whoſe calling leads them to know other<g ref="char:EOLhyphen"/>wiſe, and it's the <hi>praemio</hi> of Exchanges, and the Charge or Haz<g ref="char:EOLhyphen"/>zards that Merchants are at extraordinary, makes our Bullion the dearer to bring home, and is not dearer at the place from whence it comes.</p>
+            <p>The Repoſitory, where the Gold and Silver is laid when brought from the <hi>Indies,</hi> is <hi>Spain,</hi> and if you'll remit thither a Bill of Exchange, for five hundred pieces of Eight, you may buy with it as many marks of Silver, or Caſtillanos of Gold, as you could have done before the War with the ſame money, now that Plate and Gold is dearer in <hi>France, Holland, Flan<g ref="char:EOLhyphen"/>ders,</hi> &amp;c. proceeds from what I above ſet forth.</p>
+            <p>Having finiſhing what I firſt propoſed, I ſhall only add, that unleſs, our coyned money be kept above the value of Bullion, we ſhall continue under the preſent Inconveniencies. And therefore Bullion out not to be exported when it exceeds ſuch a rate, but that price to be in reaſon for what it may coſt the Merchant Importer extraordinary in time of War. And if ſo, our Coyn muſt be now advanced whether by increaſing the value, without altering the Species, or by diminiſhing the mat<g ref="char:EOLhyphen"/>ter, and leaving the ſame Name and value, or by leaving the Species of money of the ſame value and weight, but the fineneſs abaſed by pu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing more Allay will te<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d all to the ſame end.</p>
+            <pb n="30" facs="tcp:94821:19"/>
+            <p>But if our Coyn be raiſed, it's moſt certain our Bullion will alſo, and be only an advantage to particular perſons, which if done by the method I propoſe, will acrue to the Nation in Ge<g ref="char:EOLhyphen"/>neral, and ſave the Expence that it will otherwiſe be to the landed Men.</p>
+            <p>From what hath been treated on, we find that the regula<g ref="char:EOLhyphen"/>ting of our Coyn, and the improvement of our Trade is of equal neceſſity, and the leſs uſeful we make Foreign Commo<g ref="char:EOLhyphen"/>dities among us, the better we ſhall accompliſh both, and it's thought the prohibition of Muſlings alone, would be at leaſt five hundred thouſand pound a year advantage to the Nation, and that the one third part of what is here expended is not brought directly from the <hi>Indies,</hi> but from <hi>Holland,</hi> which with other Commodities much increaſeth our Debt on the Ballance of Trade, and may be ſupplyed by Manufactories of our own.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:94821:19"/>
+         </div>
+      </body>
+   </text>
+</TEI>
